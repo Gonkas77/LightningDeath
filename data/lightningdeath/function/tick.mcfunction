@@ -1,0 +1,1 @@
+execute if score vl lightningDeath matches 1 run function lightningdeath:true_tick

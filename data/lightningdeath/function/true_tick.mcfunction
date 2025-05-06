@@ -1,0 +1,1 @@
+execute as @a if score @s lightningDeath matches 1 run function lightningdeath:summon_lightning

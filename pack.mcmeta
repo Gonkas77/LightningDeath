@@ -1,0 +1,7 @@
+{
+  "pack": {
+      "pack_format": 71,
+      "description": "Lightning spawns on player death (/function lightningdeath:help) | by Gonkas77",
+      "supported_formats": [1,71]
+  }
+}
